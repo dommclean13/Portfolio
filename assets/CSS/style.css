@@ -1,4 +1,4 @@
-/* my CSS below */
+/*  Index page */
 body {
 	background-image: url("../images/palmTree.jpeg");
 	text-align: center;
@@ -120,7 +120,7 @@ content
 .main p {
 	font-size: 18px;
 	line-height: 1.5em;
-	margin-bottom: 2em;i
+	margin-bottom: 2em;
 }
 
 img.pic {
@@ -138,7 +138,7 @@ img.pic {
 	width: 270px;
 	height: 200px;
 	margin:10px;
-	float:right;
+	
 	
 }
 
@@ -146,7 +146,7 @@ img.pic {
 	position: relative;
 	top: -100px;
 	text-align: center;
-	background-color: #4aaaa5;
+	background-color: #556B2F;
 	padding: 1em;
 	color: #ffffff;
 	z-index: 1000;
