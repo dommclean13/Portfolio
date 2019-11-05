@@ -1,3 +1,7 @@
+
+
+/* my CSS below */
+
 html {
     position: relative;
 }
@@ -60,7 +64,7 @@ header .container {
 
 .nav {
 	width: 49%;
-    text-align: right;
+  text-align: right;
 	color: #b1adb3;
 	font-weight: normal;
 }
@@ -81,9 +85,9 @@ header .container {
 }
 .nav ul li+li {
 	border-left: 1px solid #cccccc;
-}
+} 
 
-/*content*/
+content
 .content {
 	width: 960px;
 	clear: both;
