@@ -44,8 +44,11 @@ header .container {
 	display: inline-block;
     vertical-align: middle;
     margin: 0;
-    padding: 0;
+	padding: 0;
+	background-color: black;
 }
+
+
 /* 
 .name {
 	width: 50%;
@@ -152,8 +155,6 @@ img.pic {
 	z-index: 1000;
 	opacity: 0.6;
 }
-
-
 
 
 footer {

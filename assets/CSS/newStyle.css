@@ -1,0 +1,72 @@
+/* Navbar Style */
+.navBar{
+    /* background: black; */
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+    overflow: hidden;
+    font-size: 17px;
+}
+/* Lines navbar links horizontaly */
+.navBar li{
+    display:inline;
+}
+.navBar a{
+    display:inline-block;
+    padding:10px;
+    color: dimgrey;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    
+}
+.navBar a:hover {
+    opacity: 0.5;
+  }
+  
+.navBar a.active {
+    color: white;
+  }
+ /* switches to mobile responsive */
+@media screen and (max-width: 600px) {
+  .nabBar a {
+    float: none;
+    display: block;
+    }
+  
+.navBar a {
+    position: relative;
+    top: 0;
+    left: 0;
+    transform: none;
+    }
+  }
+
+  /* Image size */
+  img.pic {
+    float: left;
+    padding: 0 1em 1em 0;
+    width: 200px;
+    height: 200px;
+  }
+
+  .contactMe {
+    float: right;
+    /* background-color: rgb(177, 145, 59); */
+
+  }
+  
+
+  /* Main Page */
+
+  body {
+    background-image: url("../images/palmTree.jpeg");
+    margin: auto;
+    width: 60%;
+    /* border: 3px solid #73AD21; */
+    padding: 10px;
+  }
+
+  .pageTitle {
+
+  }
